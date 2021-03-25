@@ -1,6 +1,1 @@
-print('Bylearn')
-print('Git')
-print('Terceira Linha')
-print('Quarta linha')
-print('Quinta linha')
-print('Sexta linha')
+print(' Curso de Git da Bylearn')
